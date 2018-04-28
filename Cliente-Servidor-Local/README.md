@@ -1,4 +1,4 @@
-Aplicação Cliente-Servidor (local)
+Aplicação Cliente-Servidor para alocação de memória em servidor. (local)
 
 Para executar:
 
