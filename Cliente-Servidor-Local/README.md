@@ -1,4 +1,4 @@
-#Aplicação Cliente-Servidor (local)
+Aplicação Cliente-Servidor (local)
 
 Para executar:
 
