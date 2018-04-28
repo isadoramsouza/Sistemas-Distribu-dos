@@ -1,8 +1,8 @@
 Aplicação Cliente-Servidor para alocação de memória em servidor. (local)
 
-Para executar:
-
 5 terminais(2 servidores e 3 clientes).
+
+Para executar:
 
 compilar servidor1: gcc servidorlocal1.c -o sv1 -lpthread
 
