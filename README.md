@@ -1,2 +1,2 @@
 # Sistemas-Distribuidos
-Repositório destinado a aplicações de sistemas distribuídos (cliente-servidor, middleware, etc)
+Repositório destinado a aplicações de sistemas distribuídos desenvolvidas na linguagem C e JAVA (cliente-servidor, middleware, etc)
